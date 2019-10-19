@@ -4,7 +4,7 @@
 
 We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim<br/>
 
-Accident happens + facts x number of death due to road accident happens y% die due to late response by the tespective authority
+Accident happens + facts x number of death due to road accident happens die due to late response by the tespective authority
 People fear+ many places like highway there are no people to make a complain neither police
 There are CCTV installed but very few people are assigned to very large recordings
 We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim
@@ -20,7 +20,7 @@ We were suggested to include more features to it such as using the same for robb
 
 ### Requirements
 * Android 5.0 and higher
-[Get the app here](https://drive.google.com/open?id=1XwSxOZ09ntXjW8ngqldEI5Z8WpLnH05)
+[Get the app here](https://drive.google.com/open?id=1XwSxOZ09ntXjW8ngqldE5Z8WpLnH05)
 
 
 ## WorkFlow
